@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "705970896813",
+    "firebase_url": "https://click-n-pick-117fb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "click-n-pick-117fb",
+    "storage_bucket": "click-n-pick-117fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705970896813:android:ea4326e2d5260c60802b24",
+        "android_client_info": {
+          "package_name": "com.clicl_n_pick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705970896813-1kltktkm65n9ecc4tn55hfglg9r0r94n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrKW05ddcnsn64rHPzfVB31WsftizG0hE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705970896813-1kltktkm65n9ecc4tn55hfglg9r0r94n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
